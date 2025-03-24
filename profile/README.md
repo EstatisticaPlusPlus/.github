@@ -9,6 +9,6 @@ repassando para o MkDocs para facilitar a adição de novos capítulos. Essa tra
 permitirá uma melhor experiência de aprendizado para os estudantes e
 entusiastas das linguagens.
 
-### Colaboradores
+### Integrantes
 
 *Em breve..*
